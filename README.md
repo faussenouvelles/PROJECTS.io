@@ -137,7 +137,7 @@ someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
 </ul>
 
     <div class="inner">
-      <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
+      <p>Massachusettes Institute of Technology - Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
     </div>
         
 <p><strong><a href="#table-of-contents">back to top</a></strong></p>
