@@ -137,10 +137,12 @@ someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
     </li>
 </ul>
 <p><strong><a href="#table-of-contents">back to top</a></strong></p>
-
+        <br>
+<h2 id="-"> function setTimer { COMING SOON }</h2>
+        
+<footer class="mastfoot mt-auto">
     <div class="inner">
       <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
     </div>
+</footer>
         
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
-<h2 id="-"> function setTimer { COMING SOON }</h2>
