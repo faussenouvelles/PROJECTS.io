@@ -2,7 +2,7 @@
     <body>
 <body class="text-right">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-  <header class="masthead mb-auto">
+  <header class="masthead mb-auto text-center">
     <div class="inner">
       <h1 class="masthead-brand">Massachusettes Institute of Technology · Projects 2022 · </h1>
       <br>
