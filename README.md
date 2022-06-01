@@ -69,7 +69,7 @@
             <img src="https://raw.githubusercontent.com/faussenouvelles/pacman-factory.io/main/pacman%20image%20-%204.png" alt="Pacman 10s" width="250" height="170">
          </body>
         <p>This style guide has been adapted from MIT Week 7 · Pacman Factory</p>
-        <h6><a href="[https://faussenouvelles.github.io/pacman-factory.io/](https://github.com/faussenouvelles/pacman-factory.io)"> ❧ PACMAN FACTORY</a></h6>
+        <h6><a href="https://faussenouvelles.github.io/pacman-factory.io/](https://github.com/faussenouvelles/pacman-factory.io)"> ❧ PACMAN FACTORY</a></h6>
     </li>
 </ul>
 <br>
