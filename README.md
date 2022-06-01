@@ -49,7 +49,7 @@
             <img src="https://raw.githubusercontent.com/faussenouvelles/holy-grail.io/main/Holy%20Grail.png" alt="Holy Grail" width="500" height="360">
          </body>
         <p>This style guide has been adapted from MIT Week 8 · Working With CSS & HTML</p>
-        <h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/classwork/Holy%20Grail.html"> ❧ HOLY GRAIL BASICS</a></h6>
+        <a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/classwork/Holy%20Grail.html"> ❧ HOLY GRAIL BASICS</a>
     </li>
 </ul>
 <br>
@@ -138,8 +138,9 @@ someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
 </ul>
 <p><strong><a href="#table-of-contents">back to top</a></strong></p>
 
-<p>This style guide has been adapted from <a href="https://github.com/airbnb/javascript">the airbnb javascript style
-    guide</a></p>
-</ul>
+    <div class="inner">
+      <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
+    </div>
+        
 <p><strong><a href="#table-of-contents">back to top</a></strong></p>
 <h2 id="-"> function setTimer { COMING SOON }</h2>
