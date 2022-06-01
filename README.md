@@ -135,7 +135,6 @@ someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
 </code></pre>
     </li>
 </ul>
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
 
     <div class="inner">
       <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
