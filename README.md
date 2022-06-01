@@ -72,7 +72,7 @@
         <p></p>
         <p></p>
         <p>This style guide has been adapted from MIT Week 7 · Pacman Factory</p>
-        <h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:17:2022-%20Intro%20to%20Github,%20Testing,%20and%20the%20DOM/classwork/week%207%20-%20pacman%20factory.html"> ❧ PACMAN FACTORY</a></h6>
+        <h6><a href="https://faussenouvelles.github.io/pacman-factory.io/"> ❧ PACMAN FACTORY</a></h6>
     </li>
 </ul>
 <br>
