@@ -49,7 +49,7 @@
             <img src="https://raw.githubusercontent.com/faussenouvelles/holy-grail.io/main/Holy%20Grail.png" alt="Holy Grail" width="500" height="360">
          </body>
         <p>This style guide has been adapted from MIT Week 8 · Working With CSS & HTML</p>
-        <h6></h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/classwork/Holy%20Grail.html"> ❧ HOLY GRAIL BASICS</a></h6>
+        <h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/classwork/Holy%20Grail.html"> ❧ HOLY GRAIL BASICS</a></h6>
     </li>
 </ul>
 <br>
