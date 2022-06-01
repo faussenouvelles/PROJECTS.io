@@ -1,3 +1,5 @@
+<html>
+    <body>
 <body class="text-right">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
@@ -139,3 +141,5 @@ someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
         
 <p><strong><a href="#table-of-contents">back to top</a></strong></p>
 <h2 id="-"> function setTimer { COMING SOON }</h2>
+        </body>
+    </html>
