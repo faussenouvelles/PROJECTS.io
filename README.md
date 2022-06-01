@@ -38,7 +38,7 @@
         <p></p>
         <p></p>
         <p>This style guide has been adapted from MIT Week 8 · Working With CSS & HTML </p>
-        <h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/classwork/Introducing%20Styles%20to%20HTML.html#"> ❧ STYLIZED COFFEE MENU</a></h6>
+        <h6><a href="https://faussenouvelles.github.io/stylized-coffee-shop.io/"> ❧ STYLIZED COFFEE MENU</a></h6>
     </li>
 <br>
     <li>
