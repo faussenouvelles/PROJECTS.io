@@ -8,7 +8,7 @@
       <h1 class="masthead-brand">Massachusettes Institute of Technology · Projects 2022 · </h1>
       <br>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAINE</a>
+        <a class="nav-link active" href="https://faussenouvelles.github.io/PORTFOLIO.io/">MAIN</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/PROJECTS.io/">PROJECTS</a>
         <a class="nav-link" href="https://faussenouvelles.github.io/ARCHIVES.io/">ARCHIVES</a>
       </nav>
@@ -20,11 +20,10 @@
 <br>
 <h2 id="table-of-contents">· Table of Contents · </h2>
 <ol style="float:right; text-align:right; list-style:none;">
-    <li><a href="#CSS Files">CSS Files · </a></li>
-    <li><a href="#Pacman">Pacman Factory · </a></li>
-    <li><a href="#Eyes">Eye Movement Activity · </a></li>
-    <li><a href="#Real Time Bus Tracker">Real Time Bus Tracker · </a></li>
-    <li><a href="#Bootstrap">Bootstrap Archives · </a></li>
+  <li><a href="#CSS Files">CSS Files · </a></li>
+  <li><a href="#Pacman">Pacman Factory · </a></li>
+  <li><a href="#Eyes">Eye Movement Activity · </a></li>
+  <li><a href="#Real Time Bus Tracker">Real Time Bus Tracker · </a></li>
 </ol>
 <br>
 <br>
@@ -90,57 +89,56 @@
     </li>
 </ul>
 <br>
-<h3 id="Real Time Bus Tracker"> · Real Time Bus Tracker · </h3>
-<ul>
-    <li>
-        <p>Use the literal syntax for array creation.</p>
-        <pre><code class="lang-javascript"><span class="hljs-comment">// bad</span>
-<span class="hljs-keyword">var</span> items = <span class="hljs-keyword">new</span> <span class="hljs-type">Array</span>();
-
-<span class="hljs-comment">// good</span>
-<span class="hljs-keyword">var</span> items = [];
-</code></pre>
-    </li>
-    <li>
-        <p>Use Array#push instead of direct assignment to add items to an array.</p>
-        <p>```javascript
-            var someStack = [];</p>
-    </li>
+<h3 id="Real Time Bus Tracker"> · MIT to HARVARD MTS · </h3>
+<ul style="float:right; text-align:right; list-style:none;">
+  <li>
+      <p></p>
+      <body>
+          <img src="https://raw.githubusercontent.com/faussenouvelles/realtimebustracker.io/main/Screen%20Shot%202022-06-06%20at%202.02.29%20AM.png" alt="Eyes Movement" width="500" height="320">
+       </body>
+      <p></p>
+      <p></p>
+      <p>This style guide has been adapted from MIT Week 9 · Real Time Bus Tracker</p>
+      <h6><a href="https://faussenouvelles.github.io/realtimebustracker.io/"> ❧ MIT to HARVARD PTS</a></h6>
+  </li>
 </ul>
-<pre><code><span class="hljs-comment">// bad</span>
-someStack[someStack.length] = <span class="hljs-string">'bohemianrhapsody'</span>;
+<br>
+<br>
+<h2 id="-"><strong>function returnHome <a href="https://faussenouvelles.github.io/PORTFOLIO.io/">{ Main }</a></strong></h2>
+<br>
+<br>
+<footer class="mastfoot mt-auto">
+  <div class="inner">
+    <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <Br>
+    <p>
+      MIT License
 
-<span class="hljs-comment">// good</span>
-someStack.push(<span class="hljs-string">'bohemianrhapsody'</span>);
-```
-</code></pre>
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
+Copyright (c) 2022 fausse_nouvelles
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-<h3 id="Bootstrap"> · Bootstrap Archives · </h3>
-<ul>
-    <li>
-        <p>Use single quotes <code>&#39;&#39;</code> for strings.</p>
-        <pre><code class="lang-javascript"><span class="hljs-comment">// bad</span>
-<span class="hljs-keyword">var</span> name = <span class="hljs-string">"Bob Parr"</span>;
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-<span class="hljs-comment">// good</span>
-<span class="hljs-keyword">var</span> name = <span class="hljs-string">'Bob Parr'</span>;
-
-<span class="hljs-comment">// bad</span>
-<span class="hljs-keyword">var</span> fullName = <span class="hljs-string">"Bob "</span> + <span class="hljs-keyword">this</span>.lastName;
-
-<span class="hljs-comment">// good</span>
-<span class="hljs-keyword">var</span> fullName = <span class="hljs-string">'Bob '</span> + <span class="hljs-keyword">this</span>.lastName;
-</code></pre>
-    </li>
-</ul>
-
-    <div class="inner">
-      <p>Massachusettes Institute of Technology - Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
-    </div>
-        
-<p><strong><a href="#table-of-contents">back to top</a></strong></p>
-<h2 id="-"> function setTimer { COMING SOON }</h2>
-        </body>
-    </html>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+    </p>
+  </div>
+</footer>
+</div>
+<html>
