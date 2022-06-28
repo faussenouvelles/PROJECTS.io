@@ -85,7 +85,7 @@
         <p></p>
         <p></p>
         <p>This style guide has been adapted from MIT Week 8 · Eyes Movement Exercise</p>
-        <h6><a href="file:///Users/ellademetriou/Documents/Documents/School/MIT%20Coding%20Certificate/05:23:2020%20-%20Styles%20&%20Bootstrap%20/eye-movement_solution/index.html"> ❧ EYE MOVEMENT</a></h6>
+        <h6><a href="https://faussenouvelles.github.io/eyes-movement.io/"> ❧ EYE MOVEMENT</a></h6>
     </li>
 </ul>
 <br>
