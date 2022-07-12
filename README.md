@@ -53,7 +53,7 @@
         <p>This style guide has been adapted from MIT Week 8 · Working With CSS & HTML</p>
         <h6><a href="https://faussenouvelles.github.io/holy-grail.io/"> ❧ HOLY GRAIL BASICS</a></h6>
         <br>
-        <p> These are popular formats used for building basic websites. One is easily stylized to be used to present marketable options. One is best for presenting content for viewing & often found while browsing the internet.</p>
+        <p> These are popular formats used for building basic websites. One is easily stylized to be used to present marketable options. One is best for presenting content for viewing & often found while browsing the internet. </p>
     </li>
 
 <br>
