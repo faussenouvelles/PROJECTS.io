@@ -31,7 +31,6 @@
 <h3 id="CSS Files"> · CSS FILES · </h3>
 <br>
 <ul style="float:right; text-align:right; list-style:none;">
-    <li>
         <h5>Stylized Coffeeshop Menu</h5>
         <p></p>
         <br>
@@ -43,7 +42,7 @@
         <p>
         <p>This style guide has been adapted from MIT Week 8 · Working With CSS & HTML </p>
         <h6><a href="https://faussenouvelles.github.io/stylized-coffee-shop.io/"> ❧ STYLIZED COFFEE MENU</a></h6>
-    </li>
+
 <br>
     <li>
         <h5>Holy Grail · Web Developer Basics</h5>
@@ -56,7 +55,7 @@
         <br>
         <p> These are popular formats used for building basic websites. One is easily stylized to be used to present marketable options. One is best for presenting content for viewing & often found while browsing the internet.</p>
     </li>
-</ul>
+
 <br>
 <h3 id="Pacman"> · Pacman Factory · </h3>
 <ul style="float:right; text-align:right; list-style:none;">
@@ -142,7 +141,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
     </p>
-  </div>
+
 </footer>
 </div>
 <html>
