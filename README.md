@@ -117,7 +117,7 @@
         <p></p>
         <p></p>
         <p>These are templates provided by MIT for Bootstrap practices Week 2 · Bootstrap Templates</p>
-        <h6><a href="https://github.com/faussenouvelles">eletheia_sweet"> ❧ Bootstrap </a></h6>
+        <h6><a href="https://github.com/faussenouvelles"> ❧ Bootstrap </a></h6>
     </li>
 </ul>
 <br>
@@ -134,7 +134,6 @@
     <br>
     <br>
     <Br>
-    <p>
       MIT License
 
 Copyright (c) 2022 fausse_nouvelles
