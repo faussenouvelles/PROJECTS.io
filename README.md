@@ -117,7 +117,7 @@
         <p></p>
         <p></p>
         <p>These are templates provided by MIT for Bootstrap practices Week 2 · Bootstrap Templates</p>
-        <h6><a href="https://github.com/faussenouvelles"> ❧ Bootstrap </a></h6>
+        <h6><a href="[https://github.com/faussenouvelles](https://github.com/faussenouvelles/bootstrap.portfolio.io]"> ❧ Bootstrap </a></h6>
     </li>
 </ul>
 <br>
