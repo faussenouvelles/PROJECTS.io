@@ -25,6 +25,7 @@
   <li><a href="#Pacman">Pacman Factory · </a></li>
   <li><a href="#Eyes">Eye Movement Activity · </a></li>
   <li><a href="#Real Time Bus Tracker">Real Time Bus Tracker · </a></li>
+  <li><a href="#Bootstrap"> Bootstrap Templates · </a></li>
 </ol>
 <br>
 <br>
@@ -105,6 +106,21 @@
       <h6><a href="https://faussenouvelles.github.io/realtimebustracker.io/"> ❧ MIT to HARVARD PTS</a></h6>
   </li>
 </ul>
+<br>
+<h3 id="Eyes"> · Bootstrap Templates · </h3>
+<ul style="float:right; text-align:right; list-style:none;">
+    <li>
+        <p></p>
+        <body>
+            <img src="https://raw.githubusercontent.com/faussenouvelles/eyes-movement.io/main/Screen%20Shot%202022-05-29%20at%204.46.43%20AM.png" alt="Eyes Movement" width="500" height="320">
+         </body>
+        <p></p>
+        <p></p>
+        <p>These are templates provided by MIT for Bootstrap practices Week 2 · Bootstrap Templates</p>
+        <h6><a href="https://github.com/faussenouvelles">eletheia_sweet"> ❧ Bootstrap </a></h6>
+    </li>
+</ul>
+<br>
 <br>
 <br>
 <h2 id="-"><strong>function returnHome <a href="https://faussenouvelles.github.io/PORTFOLIO.io/">{ Main }</a></strong></h2>
