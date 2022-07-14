@@ -112,14 +112,14 @@
     <li>
         <p></p>
         <body>
-            <img src="[https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-13%20at%2011.47.31%20PM.png]" alt="Bootstrap" width="500" height="320">
-             <img src="[https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.32%20AM.png]" alt="Bootstrap" width="500" height="320">
-                         <img src="[https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.57%20AM.png]" alt="Bootstrap" width="500" height="320">
+            <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-13%20at%2011.47.31%20PM.png" alt="Bootstrap" width="500" height="320">
+             <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.32%20AM.png" alt="Bootstrap" width="500" height="320">
+                         <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.57%20AM.png" alt="Bootstrap" width="500" height="320">
          </body>
         <p></p>
         <p></p>
         <p>These are templates provided by MIT for Bootstrap practices Week 2 · Bootstrap Templates</p>
-        <h6><a href="[https://github.com/faussenouvelles](https://github.com/faussenouvelles/bootstrap.portfolio.io]"> ❧ Bootstrap </a></h6>
+        <h6><a href="https://github.com/faussenouvelles](https://github.com/faussenouvelles/bootstrap.portfolio.io"> ❧ Bootstrap </a></h6>
     </li>
 </ul>
 <br>
