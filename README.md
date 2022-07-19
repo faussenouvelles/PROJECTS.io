@@ -113,22 +113,24 @@
         <body>
             <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-13%20at%2011.47.31%20PM.png" alt="Bootstrap" width="500" height="320">
              <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.32%20AM.png" alt="Bootstrap" width="500" height="320">
-             <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.57%20AM.png" alt="Bootstrap" width="500" height="320">
+             <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.57%20AM.png" alt="Bootstrap" width="500" height="320"></li>
          </body>
         <p></p>
         <p></p>
         <p>These are templates provided by MIT for Bootstrap practices Week 2 · Bootstrap Templates</p>
         <h6><a href="https://github.com/faussenouvelles](https://github.com/faussenouvelles/bootstrap.portfolio.io"> ❧ Bootstrap </a></h6>
-    </li>
+
 </ul>
 <br>
 <br>
 <br>
-<h2 id="-"><strong>function returnHome <a href="https://faussenouvelles.github.io/PORTFOLIO.io/">{ Main }</a></strong></h2>
 <br>
 <br>
 <footer class="mastfoot mt-auto">
   <div class="inner">
+      <h2 id="-"><strong>function returnHome <a href="https://faussenouvelles.github.io/PORTFOLIO.io/">{ Main }</a></strong></h2>
+      <br>
+      <br>
     <p>Web Design for Massachusettes Institute of Technology Women's Coding Certificate Course <a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding-womens-cohort"> MIT 2022</a>, by <a href="https://github.com/faussenouvelles">eletheia_sweet</a>.</p>
     <br>
     <br>
