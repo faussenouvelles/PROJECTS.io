@@ -3,7 +3,7 @@
 <body class="text-right">
 <body style="height:100%;background-color:#fcfcf7;display:flex;color:#2F4F4F;font-family:'PT Sans Caption', sans-serif;text-shadow:0 .05rem .1rem rgba(187, 7, 160, 0.5);box-shadow:inset 0 0 5rem rgba(250, 248, 250, 0.5);background:url('00.jpg') no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;">
 <link style="padding: .25rem 0;font-weight: 700;color: rgba(133, 79, 141, 0.675);background-color: transparent;border-bottom: .25rem solid transparent">
-    <div class="cover-container d-flex w-100 h-700 p-3 mx-auto flex-column">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto text-center">
     <div class="inner">
       <h1 class="masthead-brand">Massachusettes Institute of Technology · Projects 2022 · </h1>
@@ -82,7 +82,7 @@
 <h3 id="Eyes"> · Eye Movement Activity · </h3>
 <ul style="float:right; text-align:right; list-style:none;">
     <li>
-        <p></p>
+       <br>
         <body>
             <img src="https://raw.githubusercontent.com/faussenouvelles/eyes-movement.io/main/Screen%20Shot%202022-05-29%20at%204.46.43%20AM.png" alt="Eyes Movement" width="500" height="320">
          </body>
@@ -96,14 +96,14 @@
 <h3 id="Real Time Bus Tracker"> · MIT to HARVARD MTS · </h3>
 <ul style="float:right; text-align:right; list-style:none;">
   <li>
-      <p></p>
+<br>
       <body>
           <img src="https://raw.githubusercontent.com/faussenouvelles/realtimebustracker.io/main/Screen%20Shot%202022-06-06%20at%202.02.29%20AM.png" alt="Eyes Movement" width="500" height="320">
-       </body>
-      <p></p>
-      <p></p>
+      <br>
+      <br>
       <p>This style guide has been adapted from MIT Week 9 · Real Time Bus Tracker</p>
       <h6><a href="https://faussenouvelles.github.io/realtimebustracker.io/"> ❧ MIT to HARVARD PTS</a></h6>
+          </body>
   </li>
 </ul>
 <br>
@@ -114,11 +114,12 @@
             <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-13%20at%2011.47.31%20PM.png" alt="Bootstrap" width="500" height="320">
              <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.32%20AM.png" alt="Bootstrap" width="500" height="320">
              <img src="https://raw.githubusercontent.com/faussenouvelles/bootstrap.portfolio.io/main/Screen%20Shot%202022-07-14%20at%2012.03.57%20AM.png" alt="Bootstrap" width="500" height="320"></li>
-         </body>
         <p></p>
         <p></p>
         <p>These are templates provided by MIT for Bootstrap practices Week 2 · Bootstrap Templates</p>
         <h6><a href="https://github.com/faussenouvelles](https://github.com/faussenouvelles/bootstrap.portfolio.io"> ❧ Bootstrap </a></h6>
+        </body>
+    </li>
 
 </ul>
 <br>
